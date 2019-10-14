@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* baziniai dokumento siliai: dekoratyvios detalės,- naudojamas flex išdėstymo modelis */
+body {
+  color: #5D636C;
+  background: #cccccc;
+}
+
+.box {
+  border: 3px solid blue;
+  width: 70%;
+  margin: 50px auto;
+  background: white;
+  padding: 30px;
+}
+
+}
+h1 {
+   text-align: center;
+}
